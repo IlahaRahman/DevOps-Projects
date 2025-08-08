@@ -12,7 +12,7 @@ This project demonstrates how to **containerize a Flask application** using Dock
 2. **Containerized with Docker**  
    Added a `Dockerfile` defining the environment, dependencies, and startup command.  
    Built and ran the image locally to confirm everything worked.
-	![Dockerfile](Flask App/Screenshot(327).png)
+	![Dockerfile](FlaskApp/Screenshot(327).png)
 
 3. **Pushed to GitHub**  
    Committed the source code and Dockerfile to a GitHub repository.
@@ -24,13 +24,13 @@ This project demonstrates how to **containerize a Flask application** using Dock
    - Builds the Docker image
    - Pushes it to Docker Hub
 
-	![GitHub Actions](Flask App/Screenshot(334).png)
-	![GitHub Actions](Flask App/Screenshot(323).png)
+	![GitHub Actions](FlaskApp/Screenshot(334).png)
+	![GitHub Actions](FlaskApp/Screenshot(323).png)
 
 5. **Verified the Image**  
    Pulled the image from Docker Hub and ran it locally using Docker CLI and Docker Desktop.
-	![Run Container](Flask App/Screenshot(330).png)
-	![Run Container](Flask App/Screenshot(329).png)
-	![Docker Hub](Flask App/Screenshot(331).png)
+	![Run Container](FlaskApp/Screenshot(330).png)
+	![Run Container](FlaskApp/Screenshot(329).png)
+	![Docker Hub](FlaskApp/Screenshot(331).png)
 
 
