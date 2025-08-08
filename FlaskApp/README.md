@@ -14,9 +14,12 @@ This project demonstrates how to **containerize a Flask application** using Dock
    Built and ran the image locally to confirm everything worked.
 	![Dockerfile](./Screenshots/Screenshot327.png)
 
+---
+
 3. **Pushed to GitHub**  
    Committed the source code and Dockerfile to a GitHub repository.
-	
+
+---	
 
 4. **Set Up GitHub Actions**  
    Created a CI workflow that:
@@ -26,6 +29,8 @@ This project demonstrates how to **containerize a Flask application** using Dock
 
 	![GitHub Actions](./Screenshots/Screenshot334.png)
 	![GitHub Actions](./Screenshots/Screenshot323.png)
+
+---
 
 5. **Verified the Image**  
    Pulled the image from Docker Hub and ran it locally using Docker CLI and Docker Desktop.
